@@ -1,5 +1,5 @@
 
-# classe-sacanner-java
+# classe-scanner-java
 
 •	Scanner scanner = new Scanner(System.in);
 •	int numeroInteiro = scanner.nextInt();
